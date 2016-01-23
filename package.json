@@ -1,0 +1,24 @@
+{
+  "name": "deuil-carre-tremblay",
+  "version": "0.0.0",
+  "author": "Dagothig <guillaumenoelmartel@gmail.com>",
+  "description": "Le Deuil de Carré Tremblay",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dagothig/deuil-carre-tremblay.git"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sloc": "^1.0.4",
+    "gulp-streamify": "^1.0.2",
+    "gulp-watch": "^4.3.5",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
